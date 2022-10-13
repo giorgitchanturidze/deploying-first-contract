@@ -1,3 +1,3 @@
 # deploying-first-contract
 
-### Solidity
+## Solidity
